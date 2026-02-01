@@ -1,0 +1,1 @@
+print("Brainrot script loaded")
